@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--该参数文件存放了共享平台的入库参数。-->
+<xmltodb>
+  <filename>ZHOBTCODE_*.XML</filename><tname>T_ZHOBTCODE</tname><uptbz>1</uptbz><execsql>delete from T_ZHOBTCODE</execsql><endl/>
+  <filename>SURF_ZH_20*.XML</filename><tname>T_ZHOBTMIND</tname><uptbz>1</uptbz><endl/>
+</xmltodb>
